@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jacob
 
-🎓 Cybersecurity Student @ Wake Tech | SOC Analyst Intern 
+🎓 Cybersecurity Student @ Wake Tech | SOC Analyst Intern  
 🛡️ Passionate about blue teaming, ethical hacking, and automation  
 🔧 Skilled in Python, Wireshark, Splunk, Linux, and more
 
@@ -11,7 +11,10 @@
 
 ## 📂 Featured Projects:
 🔹 [Python Scheduler App](https://github.com/jbwiddowson/Python-Scheduling-App)  
-🔹 [SQL in Cyber Security](https://github.com/jbwiddowson/SQL-Statements) 
+🔹 [SQL Restaurant DB](https://github.com/jbwiddowson/Resturant-Data-Base)  
+🔹 [Secure VLAN Network – Cisco Packet Tracer](link-to-repo)  
 🔹 [Personal Portfolio Website](https://github.com/jbwiddowson/HTML-Website)
 
-🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](https://linkedin.com/in/jacob-widdowson)
+📫 Reach me at: your.email@example.com  
+🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](linkedin.com/in/jacob-widdowson)
+
