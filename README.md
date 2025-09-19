@@ -10,9 +10,8 @@
 - Red vs Blue team simulations
 
 ## 📂 Featured Projects:
-🔹 [Python Scheduler App](link-to-repo)  
-🔹 [SQL Restaurant DB](link-to-repo)  
-🔹 [Secure VLAN Network – Cisco Packet Tracer](link-to-repo)  
+🔹 [Python Scheduler App](https://github.com/jbwiddowson/Python-Projects)  
+🔹 [SQL](https://github.com/jbwiddowson/SQL-Statements)  
 🔹 [Personal Portfolio Website](https://github.com/jbwiddowson/HTML-Website)
   
 🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](https://linkedin.com/in/jacob-widdowson)
