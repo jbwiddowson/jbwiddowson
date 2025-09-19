@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jacob
 
-🎓 Cybersecurity Student @ Wake Tech | SOC Analyst Intern  
+🎓 Cybersecurity Student   
 🛡️ Passionate about blue teaming, ethical hacking, and automation  
 🔧 Skilled in Python, Wireshark, Splunk, Linux, and more
 
