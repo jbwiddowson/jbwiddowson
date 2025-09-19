@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Jacob
 
-<!--
-**jbwiddowson/jbwiddowson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student @ Wake Tech | SOC Analyst Intern  
+🛡️ Passionate about blue teaming, ethical hacking, and automation  
+🔧 Skilled in Python, Wireshark, Splunk, Linux, and more
 
-Here are some ideas to get you started:
+## 🧠 What I’m Learning:
+- Threat hunting & SIEM analysis
+- Malware detection & incident response
+- Red vs Blue team simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects:
+🔹 [Python Scheduler App](link-to-repo)  
+🔹 [SQL Restaurant DB](link-to-repo)  
+🔹 [Secure VLAN Network – Cisco Packet Tracer](link-to-repo)  
+🔹 [Personal Portfolio Website](link-to-repo)
+
+📫 Reach me at: your.email@example.com  
+🌐 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/jacob-widdowson)
