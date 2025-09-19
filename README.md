@@ -8,6 +8,7 @@
 - Threat hunting & SIEM analysis
 - Malware detection & incident response
 - Red vs Blue team simulations
+- Ai with automation
 
 ## 📂 Featured Projects:
 🔹 [Python Scheduler App](https://github.com/jbwiddowson/Python-Scheduling-App)  
