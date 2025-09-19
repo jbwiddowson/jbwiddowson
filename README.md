@@ -13,6 +13,6 @@
 🔹 [Python Scheduler App](link-to-repo)  
 🔹 [SQL Restaurant DB](link-to-repo)  
 🔹 [Secure VLAN Network – Cisco Packet Tracer](link-to-repo)  
-🔹 [Personal Portfolio Website](link-to-repo)
+🔹 [Personal Portfolio Website](https://github.com/jbwiddowson/HTML-Website)
   
 🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](https://linkedin.com/in/jacob-widdowson)
