@@ -10,8 +10,8 @@
 - Red vs Blue team simulations
 
 ## 📂 Featured Projects:
-🔹 [Python Scheduler App](https://github.com/jbwiddowson/Python-Projects)  
-🔹 [SQL](https://github.com/jbwiddowson/SQL-Statements)  
+🔹 [Python Scheduler App](https://github.com/jbwiddowson/Python-Scheduling-App)  
+🔹 [SQL](https://github.com/jbwiddowson/SQL-Statements) 
 🔹 [Personal Portfolio Website](https://github.com/jbwiddowson/HTML-Website)
   
 🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](https://linkedin.com/in/jacob-widdowson)
