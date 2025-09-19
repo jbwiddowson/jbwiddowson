@@ -14,6 +14,5 @@
 🔹 [SQL Restaurant DB](link-to-repo)  
 🔹 [Secure VLAN Network – Cisco Packet Tracer](link-to-repo)  
 🔹 [Personal Portfolio Website](link-to-repo)
-
-📫 Reach me at: your.email@example.com  
-🌐 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/jacob-widdowson)
+  
+🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](https://linkedin.com/in/jacob-widdowson)
