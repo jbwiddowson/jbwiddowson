@@ -14,7 +14,6 @@
 🔹 [SQL Restaurant DB](https://github.com/jbwiddowson/Resturant-Data-Base)  
 🔹 [Secure VLAN Network – Cisco Packet Tracer](link-to-repo)  
 🔹 [Personal Portfolio Website](https://github.com/jbwiddowson/HTML-Website)
-
-📫 Reach me at: your.email@example.com  
+  
 🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](linkedin.com/in/jacob-widdowson)
 
