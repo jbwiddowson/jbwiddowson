@@ -16,5 +16,5 @@
 🔹 [Secure VLAN Network – Cisco Packet Tracer](https://github.com/jbwiddowson/Secure-VLAN)  
 🔹 [Personal Portfolio Website](https://github.com/jbwiddowson/HTML-Website)
   
-🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](linkedin.com/in/jacob-widdowson)
+🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](https://www.linkedin.com/in/jacob-widdowson/)
 
