@@ -13,7 +13,7 @@
 ## 📂 Featured Projects:
 🔹 [Python Scheduler App](https://github.com/jbwiddowson/Python-Scheduling-App)  
 🔹 [SQL Restaurant DB](https://github.com/jbwiddowson/Resturant-Data-Base)  
-🔹 [Secure VLAN Network – Cisco Packet Tracer](link-to-repo)  
+🔹 [Secure VLAN Network – Cisco Packet Tracer](https://github.com/jbwiddowson/Secure-VLAN)  
 🔹 [Personal Portfolio Website](https://github.com/jbwiddowson/HTML-Website)
   
 🌐 LinkedIn: [linkedin.com/in/jacob-widdowson](linkedin.com/in/jacob-widdowson)
